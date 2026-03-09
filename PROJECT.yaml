@@ -1,0 +1,16 @@
+id: 73c59c15-12d7-4ca1-9ee6-dc7f9bd605ae
+name: trendradar
+description: "Emerging industry trends with impact assessments"
+tier: prototype
+lane: side-projects
+priority: low
+category: analysis
+focus: false
+open_tasks: 0
+oss: false
+stack: [typescript, react, convex, vite]
+repo: https://github.com/mxn2020/trendradar
+deploy_url: null
+last_active: 2026-03-02
+tags: [ai, convex]
+notes:
